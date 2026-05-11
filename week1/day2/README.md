@@ -164,7 +164,9 @@ Like multiple tenants living in the same apartment building but each having sepa
 
 -> Trailhead Modules Completed
 
-✅ Agentforce 360 Platform Basics  
+✅ Agentforce 360 Platform Basics 
+<img width="1919" height="1061" alt="Screenshot 2026-05-11 192513" src="https://github.com/user-attachments/assets/63b8bb29-ecf1-4cdc-8e38-cd96a06e6fb6" />
+
 
 
 Optional:
