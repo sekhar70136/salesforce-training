@@ -173,12 +173,4 @@ Today I learned:
 <img width="1919" height="1067" alt="Screenshot 2026-05-12 194633" src="https://github.com/user-attachments/assets/531ee93a-0fb4-44ef-8a0c-d75fd2fd0d1e" />
   
 
-Optional:
-- Create a Screen Flow That Checks for Duplicates
 
--> Screenshots
-
-Add your screenshots here:
-- Flow Builder Basics completion screenshot
-- Data and Actions in Flows screenshot
-- Flow diagram screenshot
