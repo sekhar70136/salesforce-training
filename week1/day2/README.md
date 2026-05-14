@@ -167,19 +167,6 @@ Like multiple tenants living in the same apartment building but each having sepa
 ✅ Agentforce 360 Platform Basics 
 <img width="1919" height="1061" alt="Screenshot 2026-05-11 192513" src="https://github.com/user-attachments/assets/63b8bb29-ecf1-4cdc-8e38-cd96a06e6fb6" />
 
-
-
-Optional:
-- Get Started with Salesforce Development Project
-
--> Screenshots
-
-Add your Trailhead completion screenshots here:
-- Platform Basics Screenshot
-- Development Basics Screenshot
-
--> Key Learnings
-
 By the end of Day 2, I learned:
 
 - How Salesforce platform works
