@@ -17,6 +17,8 @@ This day focused on understanding concepts at a high level rather than deep tech
 
 ✅ Agentforce 360 Platform Events Basics  
 <img width="1918" height="1075" alt="salesforce-day6" src="https://github.com/user-attachments/assets/45ef83fa-8160-4747-8368-456dcf107e69" />
+ Database & .NET Basics
+<img width="1919" height="1066" alt="Screenshot 2026-05-14 183333" src="https://github.com/user-attachments/assets/a7c4d498-4e3b-41d8-82bc-ff092785ae68" />
 
 
 -> Search Solution Basics
