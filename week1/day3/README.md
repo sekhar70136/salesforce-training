@@ -218,13 +218,3 @@ Today I learned:
 
 ✅ Data Modeling
 <img width="1916" height="1061" alt="Screenshot 2026-05-11 194914" src="https://github.com/user-attachments/assets/eca517ef-725e-421d-b85b-bf84601de2f4" />
-
-
-Optional:
-- Customize a Salesforce Object
-
--> Screenshots
-
-Add your Trailhead screenshots here:
-- Data Modeling completion screenshot
-- Formulas and Validation screenshot
